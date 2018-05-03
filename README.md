@@ -3,7 +3,7 @@
 
 2018.05.01 ~
 
-##Category
+### Categories
 - [Data Structure](data_structure/)
 - [Javascript](javascript)
 - [Linux](linux)
